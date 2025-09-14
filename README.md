@@ -12,3 +12,6 @@ Aplicación contenerizada con Docker que permite guardar y consultar notas usand
 
 ## Ejecución
 docker-compose up --build
+
+## Enlace al documento 
+https://docs.google.com/document/d/18zwEZHBgb4_lDiQeMuyJD4tg-beGhtVXucLmdOiQO9A/edit?usp=sharing
